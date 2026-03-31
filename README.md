@@ -48,7 +48,7 @@ yay -S grub-theme-hollow-knight #the yay repo only contains hollow knight backgr
 If you want to add a new background, just put it in the ```wallpapers/``` directory. After that, run the install script again and choose it when prompted for.
 For now it has all the background image in both silksong and hollow knight (Finally silksong is out :D)
 ## Credits
-All the art used here belongs to the game <a href="https://www.hollowknight.com/" target="_blank">Hollow Knight</a>.<br>
+All the art used here belongs to the game <a href="https://www.hollowknight.com/" target="_blank">Hollow Knight</a> and <a href="https://hollowknightsilksong.com/" target="_blank">Hollow Knight: Silksong</a> .<br>
 This is just a fork of <a href="https://github.com/sergoncano/hollow-knight-grub-theme" target="_blank">original hollow knight grub theme (this just add the rest of the wallpapers)</a>'s. <br>
 The installation script is a variation of <a href="https://github.com/Lxtharia/minegrub-theme" target="_blank">minegrub</a>'s. 
 
