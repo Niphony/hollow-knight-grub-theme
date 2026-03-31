@@ -31,6 +31,8 @@ $ sudo ./install_theme.sh
 Now set the theme in your grub config (```/etc/default/grub```) by adding (or modifying) the following line:
 ```bash
 GRUB_THEME="/boot/grub/themes/hollow-grub/theme.txt"
+#And just for verifiaction see if this line got the max res of your monitor 1080 is the usual:
+GRUB_GFXMODE=1920x1080x32
 ```
 Finally reload the GRUB config:
 ```bash
@@ -44,7 +46,7 @@ yay -S grub-theme-hollow-knight #the yay repo only contains hollow knight backgr
 ```
 ## Customization
 If you want to add a new background, just put it in the ```wallpapers/``` directory. After that, run the install script again and choose it when prompted for.
-For now it has all the background image in both silksong and hollow knight
+For now it has all the background image in both silksong and hollow knight (Finally silksong is out :D)
 ## Credits
 All the art used here belongs to the game <a href="https://www.hollowknight.com/" target="_blank">Hollow Knight</a>.<br>
 This is just a fork of <a href="https://github.com/sergoncano/hollow-knight-grub-theme" target="_blank">original hollow knight grub theme (this just add the rest of the wallpapers)</a>'s. <br>
