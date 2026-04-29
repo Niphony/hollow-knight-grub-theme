@@ -20,7 +20,7 @@
 Install the files:
 ```bash
 # Clone this repository
-$ git clone https://github.com/sergoncano/hollow-knight-grub-theme.git
+$ git clone https://github.com/Niphony/hollow-knight-grub-theme.git
 
 # Go into the repository
 $ cd hollow-knight-grub-theme
